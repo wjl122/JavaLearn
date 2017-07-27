@@ -8,6 +8,8 @@ public class welcome {
 		 * greeting[1]="wjl "; greeting[2]=",good! "; for(String h:greeting){
 		 * System.out.print(h); }
 		 */
+		
+		
 		ImageView imageView = new ImageView();
 		imageView.Action();
 	}
