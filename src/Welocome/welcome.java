@@ -10,6 +10,7 @@ public class welcome {
 		 */
 		
 		
+		
 		ImageView imageView = new ImageView();
 		imageView.Action();
 	}
