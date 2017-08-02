@@ -69,6 +69,7 @@ public class welcome {
 		//Show Frame
 		JframeDeemo jf=new JframeDeemo();
 		jf.ShowFrame();
+	    System.gc();
 		
 	}
 
